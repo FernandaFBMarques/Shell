@@ -1,0 +1,3 @@
+echo cesar; echo school;
+!!
+exit
